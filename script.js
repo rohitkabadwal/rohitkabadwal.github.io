@@ -12,7 +12,7 @@ const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
 const mobile = innerWidth < 800;
 
 // Footer mein current year
-document.getElementById('yr').textContent = new Date().getFullYear();
+//document.getElementById('yr').textContent = new Date().getFullYear();
 
 
 /* =========================================================
